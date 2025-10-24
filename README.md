@@ -22,6 +22,8 @@
 I am a **dual PhD holder** with expertise in **Informatics Engineering** and **Signals and Communications**, currently focusing on cutting-edge research in **artificial intelligence** and **human-computer interaction**. My research spans across multiple domains including computer vision, machine learning, deep learning, and their applications in real-world scenarios.
 
 ### 🏆 Recent Achievements
+- **October 2025**: Accepted two journal papers (CVIU and JAG) and two conference papers at ICSPIS 2025.
+- **September 2025**: Accepted a paper at the ArabicNLP Workshop for the QIAS 2025 Challenge (EMNLP 2025).
 - **July 2025**: Successfully defended my PhD thesis in July 2025.
 - **May 2025**: 2 Papers accepted at ICIAP 2025 and Paper accepted at MLSP 2025.
 
