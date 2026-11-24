@@ -20,7 +20,7 @@
 
 ## About me
 
-I am a Member of Technical Staff at Qutwo in Helsinki, working on AI and quantum computing systems. Before that, I spent three years as Senior Engineer at Huawei's European Research Institute, where I worked on diffusion-based generation of images, video, and LiDAR data on distributed GPU and NPU infrastructure.
+I am a Member of Technical Staff at QuTwo in Helsinki, working on AI and quantum computing systems. Before that, I spent three years as Senior Engineer at Huawei's European Research Institute, where I worked on diffusion-based generation of images, video, and LiDAR data on distributed GPU and NPU infrastructure.
 
 I hold two PhDs: Computer Engineering (University of the Basque Country, 2025) and Signals and Communications (University of Biskra, 2017). My research covers generative models, medical image analysis, facial analysis, and Arabic NLP, with 69 publications.
 
@@ -30,7 +30,7 @@ I hold two PhDs: Computer Engineering (University of the Basque Country, 2025) a
 - **2026**: Winner of the QIAS 2026 shared task on Islamic inheritance reasoning (Arabic NLP).
 - **2026**: Second place in the Ambivalence/Hesitancy Recognition Challenge, CVPR 2026 Workshop, with an accepted workshop paper.
 - **2026**: Two PCT patent applications filed: a product authentication system and a multi-modal media generation system.
-- **2026**: Joined Qutwo as Member of Technical Staff (May), after three years as Senior Engineer at Huawei.
+- **2026**: Joined QuTwo as Member of Technical Staff (May), after three years as Senior Engineer at Huawei.
 - **2026**: Journal papers in Cognitive Computation, IEEE Access, and Applied Sciences.
 - **2025**: Journal papers accepted in CVIU and JAG, and two conference papers at ICSPIS 2025.
 - **2025**: Paper at the ArabicNLP 2025 shared task for QIAS 2025 (EMNLP 2025).
@@ -41,12 +41,13 @@ I hold two PhDs: Computer Engineering (University of the Basque Country, 2025) a
 
 | Period | Role | Organization |
 |---|---|---|
-| 2026 to present | Member of Technical Staff | Qutwo, Helsinki |
+| 2026 to present | Member of Technical Staff | QuTwo, Helsinki |
 | 2023 to 2026 | Senior Engineer | Huawei European Research Institute, Helsinki |
 | 2020 to 2023 | Senior Researcher, Computer Vision | TestHouse Enko (at Huawei), Helsinki |
 | 2019 to 2020 | Postdoctoral Researcher | UTBM, France |
 | 2019 | Postdoctoral Researcher | CMVS, University of Oulu, Finland |
 | 2017 to 2019 | Maître de conférences B | University of Djelfa, Algeria |
+| 2013 to 2017 | Enseignant vacataire | University of Biskra, Algeria |
 
 At Huawei, I led the OCR project (2023), contributed to the video generation foundation model for Huawei Cloud (2024), and led the autonomous driving project for video and LiDAR data generation (2025 to 2026). The work included:
 
